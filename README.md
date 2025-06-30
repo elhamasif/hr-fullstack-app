@@ -14,7 +14,7 @@ This is a fullstack HR management system using **NestJS** (`/hr`) for the backen
   cd hr
   npm install
   npm run start:dev
-Server: http://localhost:3001/hr/registration
+Server:(exm) http://localhost:3001/hr/registration
 
 🎯 Frontend (Next.js)
 Location: /hrfrontend
